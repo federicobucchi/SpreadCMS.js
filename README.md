@@ -73,3 +73,5 @@ Template context
   ...
 }
 ```
+
+The actual context created for the template can be view in the javascript console of the browser. 
